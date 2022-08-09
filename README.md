@@ -7,6 +7,8 @@ Sobhan Goudarzi<sup>1</sup>, Adrian Basarab<sup>2</sup>, and Hassan Rivaz<sup>1\
 During the past few years, inverse problem formulations of ultrasound beamforming have attracted a growing interest. They usually pose beamforming as a minimization problem of a fidelity term resulting from the measurement model plus a regularization term that enforces a certain class on the resulting image. Herein, we take advantages of alternating direction method of multipliers to propose a flexible framework in which each term is optimized separately. Furthermore, the proposed beamforming formulation is extended to replace the regularization term by a denoising algorithm, based on the recent approaches called plug-and-play (PnP) and regularization by denoising (RED). Such regularizations are shown in this work to better preserve speckle texture, an important feature in ultrasound imaging, than sparsity-based approaches previously proposed in the literature. The efficiency of proposed methods is evaluated on simulations, real phantoms, and *in vivo* data available from a plane-wave imaging challenge in medical ultrasound. Furthermore, a comprehensive comparison with existing ultrasound beamforming methods is also provided. These results show that the RED algorithm gives the best image quality in terms of contrast index while preserving the speckle statistics.
 # Requirements
 - MATLAB (codes are tested on MATLAB R2021a)
+- [PICMUS](https://www.creatis.insa-lyon.fr/Challenge/IEEE_IUS_2016/download) dataset
+- [BFGS](https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html) solver
 # Usage
 
 # Contact
