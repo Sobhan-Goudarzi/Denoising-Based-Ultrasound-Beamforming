@@ -12,6 +12,8 @@ During the past few years, inverse problem formulations of ultrasound beamformin
 # Usage
 1. You need to download the PICMUS dataset and BFGS solver mentioned in the requirements.
 2. Once step 1 is completed, the weighting matrix Phi has to be created. To do so, the source codes weighting_matrix.m, summation_1.m, and summation_2.m must be run one by one. 
+3. After creating Phi, it must be placed in the same folder where the source codes of algorithms are. 
+4. The last step is to run each of the proposed ADMM, PnP, and RED algorithms using the corresponding source code.
   
 # Contact
 Sobhan Goudarzi (sobhan.goudarzi@concordia.ca)
