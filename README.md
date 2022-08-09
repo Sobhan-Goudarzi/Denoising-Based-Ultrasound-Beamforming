@@ -10,7 +10,9 @@ During the past few years, inverse problem formulations of ultrasound beamformin
 - [PICMUS](https://www.creatis.insa-lyon.fr/Challenge/IEEE_IUS_2016/download) dataset
 - [BFGS](https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html) solver
 # Usage
-
+1. You need to download the PICMUS dataset and BFGS solver mentioned in the requirements.
+2. Once step 1 is completed, please download the Matlab codes and follow the comment mentioned in each line.
+  
 # Contact
 Sobhan Goudarzi (sobhan.goudarzi@concordia.ca)
 
