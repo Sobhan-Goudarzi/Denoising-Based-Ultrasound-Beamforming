@@ -17,4 +17,4 @@ During the past few years, inverse problem formulations of ultrasound beamformin
 Sobhan Goudarzi (sobhan.goudarzi@concordia.ca)
 
 # License
-License for non-commercial use of the software. Please cite the following [paper](https://arxiv.org/abs/2206.07926) when using the codes.
+[License](https://github.com/Sobhan-Goudarzi/Denoising-Based-Ultrasound-Beamforming/blob/main/LICENSE.txt) for non-commercial use of the software. Please cite the following [paper](https://arxiv.org/abs/2206.07926) when using the codes.
